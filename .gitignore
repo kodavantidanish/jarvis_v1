@@ -1,0 +1,7 @@
+echo "venv/
+.env
+config.py
+data/memory.json
+data/logs/
+__pycache__/
+*.pyc" > .gitignore
